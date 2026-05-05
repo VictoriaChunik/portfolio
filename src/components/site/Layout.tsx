@@ -1,7 +1,7 @@
 import { ReactNode } from "react";
-import { NavLink, Link, useLocation } from "react-router-dom";
+import { NavLink, useLocation } from "react-router-dom";
 import styled from "styled-components";
-import { Mail, Sparkles, Linkedin } from "lucide-react";
+import { Mail, Sparkles } from "lucide-react";
 import React from "react";
 
 const TelegramIcon = (props: React.SVGProps<SVGSVGElement>) => (
