@@ -218,7 +218,6 @@ export function SiteFooter() {
       <SocialBar>
         <Socials>
           <a href="https://t.me/myitPro" target="_blank" rel="noopener noreferrer" aria-label="Telegram" title="Telegram"><TelegramIcon width={32} height={32} /></a>
-          <Link to="/work" aria-label="LinkedIn" title="LinkedIn"><Linkedin size={32} /></Link>
         </Socials>
         <Copyright>© 2025 Виктория Чуник. Все права защищены.</Copyright>
       </SocialBar>
